@@ -91,6 +91,7 @@ encontro número 2.
           (filter-pos (cdr l)))))
 ```
   * Generalize para qualquer operação
+
     ![filter](images/filter.gif "filter")
 
 ```scheme
