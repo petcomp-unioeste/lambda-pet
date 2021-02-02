@@ -12,3 +12,10 @@ Grupo de discução sobre linguagens funcionais
 * Mulling 85kg
 * Marcos 107kg
 * Nunes 100kg
+
+## Regras
+1 -  Todos os commits do projeto devem conter o peso atual do participante.
+
+
+## Projetos
+[Wolfstein em Elixir](https://github.com/matheusnunesismael/Wolfenstein-In-Elixir)
