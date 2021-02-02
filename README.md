@@ -6,8 +6,9 @@ Grupo de discução sobre linguagens funcionais
 
 ## Peso dos participantes
 
-* Daniel 100
-* Edival 93.5
-* Pablo 76.5
-* Mulling 85
-* Marcos 107
+* Daniel 100kg
+* Edival 93.5kg
+* Pablo 76.5kg
+* Mulling 85kg
+* Marcos 107kg
+* Nunes 100kg
