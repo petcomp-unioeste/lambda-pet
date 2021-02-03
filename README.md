@@ -19,3 +19,4 @@ Grupo de discução sobre linguagens funcionais
 
 ## Projetos
 [Wolfstein em Elixir](https://github.com/matheusnunesismael/Wolfenstein-In-Elixir)
+[Interpretador de LISP em Haskell](https://github.com/Mulling/meta)
