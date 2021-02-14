@@ -22,3 +22,5 @@ Grupo de discução sobre linguagens funcionais
 [Wolfstein em Elixir](https://github.com/matheusnunesismael/Wolfenstein-In-Elixir)
 
 [Interpretador de LISP em Haskell](https://github.com/Mulling/meta)
+
+[Avaliador e analisador de fórmulas lógicas em Haskell](https://github.com/Tomcat-42/haskell-tautology-checker)
