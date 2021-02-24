@@ -19,7 +19,7 @@ Grupo de discução sobre linguagens funcionais
 
 ## Projetos
 
-[Wolfstein em Elixir](https://github.com/matheusnunesismael/Wolfenstein-In-Elixir)
+[LambdaIO](https://github.com/Daniel-Boll/LambdaIO)
 
 [Interpretador de LISP em Haskell](https://github.com/Mulling/meta)
 
